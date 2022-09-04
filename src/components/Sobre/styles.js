@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 
 export const ContainerSobre = styled.div`
-   height: 700px;
    display: flex;
    flex-direction: column;
    align-items: center;
@@ -26,6 +25,7 @@ export const ContainerInformationSobre = styled.div`
 
    h1{
       font-size: 40px;
+      margin-bottom: 10px;
    }
 
    p{

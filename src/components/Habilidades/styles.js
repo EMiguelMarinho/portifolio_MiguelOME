@@ -2,7 +2,6 @@ import styled, { css } from 'styled-components';
 
 export const ContainerHabilidades = styled.div`
    margin-top: 140px;
-   height: 1500px;
    display: flex;
    flex-direction: column;
    align-items: center;
