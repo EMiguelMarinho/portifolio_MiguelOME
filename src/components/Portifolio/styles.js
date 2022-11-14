@@ -27,10 +27,11 @@ export const ContainerInformation = styled(ContainerInformationSobre)`
 export const ContainerListWorks = styled.div`
    display: flex;
    flex-direction: column;
-
+   
    @media(min-width: 1000px){
       flex-direction: row;
       flex-wrap: wrap;
+      max-width: 900px;
    }
 `;
 
@@ -53,7 +54,7 @@ export const Card = styled.div`
 
    @media(min-width: 1000px){
       width: 400px;
-      margin: 0 25px;
+      margin: 20px 25px;
       img{
          transition: 0.5s;
       }

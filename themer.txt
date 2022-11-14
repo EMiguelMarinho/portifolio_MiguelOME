@@ -1,0 +1,18 @@
+color {
+   laranja: #D9763D,
+   preto-fraco: #0D0D0D,
+   cinza: #595959,
+   branco: #FEFAF7,
+   azul: #243E73,
+   azulEscuro: #0C1526
+}
+
+react-icons {
+   github: FiGithub,
+   linkedIn: RiLinkedinFill,
+   Email: GrMail,
+   Whatsapp: AiOutlineWhatsApp,
+   Telegram: FaTelegramPlane,
+   ME: SiAboutdotme,
+   seta: AiOutlineArrowRight
+}
